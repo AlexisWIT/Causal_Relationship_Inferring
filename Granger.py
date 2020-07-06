@@ -4,9 +4,9 @@ import numpy as np
 from scipy import stats
 from statsmodels.tsa.stattools import grangercausalitytests
 
-filename = 'output_populations_10-5000.csv'
-filename2 = 'output_pops_A.csv'
-st = 0
+filename = 'data/output_populations_10-5000.csv'
+filename2 = 'data/output_pops_A.csv'
+st = 1000
 ed = 1500
 
 # Use module 'pandas'

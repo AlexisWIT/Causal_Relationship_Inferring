@@ -7,8 +7,8 @@ def main():
     # read_csv_by_Pandas(filename)
     # read_sample_data(filename2)
 
-    filename = 'output_populations_10-5000.csv'
-    filename2 = 'output_pops_E.csv'
+    filename = 'data/output_populations_10-5000.csv'
+    filename2 = 'data/output_pops_E.csv'
     st = 1000
     ed = 2000
 
