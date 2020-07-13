@@ -2,6 +2,8 @@
 
 This project will try to reproduce some of the existing causal inference methods and, in doing so, infer species interactions from the population dynamics dataset, as well as analyse performance differences between different algorithms. In the early stages of the project, only a few smaller data sets (involving less than three species) will be used, with the aim of tuning the parameters of the algorithm as efﬁcient as possible to ensure its reliability. When all methods are successfully implemented, larger data sets will be applied to test the performance of different algorithms. Where possible, some potential improvements will be attempted to apply in response to existing ﬂaws or weaknesses in some algorithms. 
 
+Try using [nbviewer](https://nbviewer.jupyter.org/) if GitHub failed to load the Jupyter Notebook.
+
 ## Aims and Objectives 
 
 The overall goal of this project is to investigate the performance of different causal inference methods for determining species interaction. In the reproduction phase, several existing methods of causal inference will attempted to be reproduce and tested in with simple, small data sets. During the evaluation phase, simulated large data sets, as well as population dynamics data sets collected based on the real world, will be used to evaluate and analyze the performance of the reproduced causal inference methods. In the enhancement phase, the project will make some attempts to improve existing defects in the methods (e.g., the problem of dealing with time-delay in predator’s response) and to incorporate artiﬁcial neural networks with a view to producing better operation outcomes. 
